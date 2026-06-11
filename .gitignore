@@ -1,0 +1,8 @@
+.codex-local-api/
+*.pid
+*.log
+*.err.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
