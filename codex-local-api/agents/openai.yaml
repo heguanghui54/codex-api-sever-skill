@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Local API"
+  short_description: "Start a local OpenAI-compatible API bridge backed by Codex CLI."
+  default_prompt: "Start a local Codex OpenAI-compatible API bridge for this project and show me the base URL, API key, and usage examples."
